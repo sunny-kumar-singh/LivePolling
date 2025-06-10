@@ -14,7 +14,7 @@ A real-time polling application that allows users to create and participate in l
 ## Tech Stack
 
 - **Frontend**: React.js
-- **Backend**: Node.js, Express.js
+- **Backend**: Node.js, Express.js ,JWT Authentication
 - **Database**: MongoDB
 - **Real-time Communication**: Socket.IO
 
@@ -81,6 +81,3 @@ npm start
 - `submitVote` - Submit vote for a poll
 - `pollUpdate` - Receive real-time poll updates
 
-## License
-
-[MIT License](LICENSE)
